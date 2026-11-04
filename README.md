@@ -322,3 +322,4 @@ public class MainActivity extends AppCompatActivity {
 ### Apres repas (Non)
 - Normal si glycemie <= 10.5 mmol/L
 - Trop elevee si glycemie > 10.5 mmol/L
+
