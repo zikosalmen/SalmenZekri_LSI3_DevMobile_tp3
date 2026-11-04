@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SlmenZekri_LSI3_tp2" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#512DA8</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#B71C1C</item>
+        <item name="colorSecondaryVariant">#7F0000</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#3700B3</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+
+</resources>
