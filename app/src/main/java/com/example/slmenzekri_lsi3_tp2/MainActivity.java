@@ -93,13 +93,13 @@ public class MainActivity extends AppCompatActivity {
             }
 
             if (glycemie < min) {
-                resultat = "niveau de glycemie est trop bas";
+                resultat = "le niveau de glycemie est trop bas";
                 couleur = Color.RED;
             } else if (glycemie > max) {
-                resultat = "niveau de glycemie est trop elevee";
+                resultat = "le niveau de glycemie est trop elevee";
                 couleur = Color.RED;
             } else {
-                resultat = "niveau de glycemie est normale";
+                resultat = "le niveau de glycemie est normale";
                 couleur = Color.parseColor("#2E7D32");
             }
         } else {
